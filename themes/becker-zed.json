@@ -1,5 +1,3 @@
-// id = "xy-zed"
-// name = "XY-Zed Theme"
 {
   "$schema": "https://zed.dev/schema/themes/v0.01.json",
   "name": "becker-zed",
