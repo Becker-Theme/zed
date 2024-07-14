@@ -2,7 +2,7 @@
 // name = "XY-Zed Theme"
 {
   "$schema": "https://zed.dev/schema/themes/v0.01.json",
-  "name": "Becker Zed",
+  "name": "becker-zed",
   "author": "Ernst Becker <ernst.becker.neto@gmail.com>",
   "themes": [
     {
