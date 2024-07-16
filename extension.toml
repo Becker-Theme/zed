@@ -1,6 +1,6 @@
-id = "becker-zed"
-name = "Becker Zed Theme"
-version = "0.0.1"
+id = "becker-theme"
+name = "Becker Theme"
+version = "0.0.2"
 schema_version = 1
 authors = ["Ernst Becker <ernst.becker.neto@gmail.com>"]
 description = "Ernst Becker's personal theme based on his color palette"
