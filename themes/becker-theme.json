@@ -1,5 +1,5 @@
 {
-  "$schema": "https://zed.dev/schema/themes/v0.01.json",
+  "$schema": "https://zed.dev/schema/themes/v0.1.0.json",
   "name": "becker-theme",
   "author": "Ernst Becker <ernst.becker.neto@gmail.com>",
   "themes": [
